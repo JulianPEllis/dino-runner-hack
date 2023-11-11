@@ -6,6 +6,12 @@ This hack works on both the offline page and https://chromedino.com
 ## How to use
 ![dino-gif](https://github.com/JulianPEllis/dino-runner-hack/assets/45700090/7f88f0d1-06d1-4aff-aad7-9d095c769c7b)
 
+- Right click and press `Inspect`
+- Left click on `Console`, between `Elements` and `Sources`
+- Paste the contents of `hack.js` after the `>`
+- Press Enter/Return, if you see a function message, the hack is active.
+- Start running.
+  
 ## How to reset
 Same as how to use, paste the contents of `reset.js` into the console and press ENTER('RETURN')
 

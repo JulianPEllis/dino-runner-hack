@@ -20,5 +20,6 @@ Same as how to use, paste the contents of `reset.js` into the console and press 
 
 <details>
 <summary>What happens at the end?</summary>
+
 Nothing. The counter resets back to zero after hitting 999999.
 </details>

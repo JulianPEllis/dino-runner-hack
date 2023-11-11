@@ -29,7 +29,7 @@ function stats(){
 
 function stopCSLoop(){
     if (loopActive){
-        loopActive=false; // Stop spam
+        loopActive=false; // Stop loop
     }
     else if (!loopActive){
         console.log('Loop is not active. Nothing changed.')
@@ -38,7 +38,7 @@ function stopCSLoop(){
 
 function startCSLoop(){
     if (!loopActive){
-        loopActive=true; // Start spam
+        loopActive=true; // (Re)start loop
     }
     else if (loopActive){
         console.log('Loop is already active. Nothing changed.')

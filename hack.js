@@ -1,4 +1,4 @@
-// Chrome Dino Runner Hack
+// Chrome Dino Runner Hack :: https://github.com/JulianPEllis/dino-runner-hack/tree/main
 // By MashyDev
 // Inject code into web console and start game.
 

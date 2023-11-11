@@ -6,6 +6,9 @@ This hack works on both the offline page and https://chromedino.com
 ## How to use
 ![dino-gif](https://github.com/JulianPEllis/dino-runner-hack/assets/45700090/7f88f0d1-06d1-4aff-aad7-9d095c769c7b)
 
+## How to reset
+Same as how to use, paste the contents of `reset.js` into the console and press ENTER('RETURN')
+
 <details>
 <summary>What happens at the end?</summary>
 Nothing. The counter resets back to zero after hitting 999999.

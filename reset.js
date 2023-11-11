@@ -1,4 +1,4 @@
-// Reset hack
+// Reset hack :: https://github.com/JulianPEllis/dino-runner-hack/blob/main/reset.js
 // Paste into console and press ENTER(RETURN)
 
 Runner.prototype.gameOver=function() {
